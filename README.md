@@ -1,4 +1,4 @@
-## sushi-project-vite
+## Sushi project website
 
 This is a project website from a tutorial I followed while learning Vite.
 
